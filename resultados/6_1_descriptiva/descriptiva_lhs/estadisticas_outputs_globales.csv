@@ -1,0 +1,7 @@
+Variable,Media,Desviación típica,Mínimo,Máximo,Rango,Coef. de variación
+n_tractos_reales,299067.66,122276.056,132599.0,620304.0,487705.0,0.409
+media_conectividad,2.915,2.544,0.461,11.44,10.979,0.873
+desviacion_tipica,43.4,23.029,15.708,116.981,101.272,0.531
+n_conexiones,2088.12,1603.998,394.0,5792.0,5398.0,0.768
+coef_variacion,20.015,7.475,10.147,34.744,24.596,0.373
+densidad_relativa,0.032,0.025,0.006,0.089,0.083,0.768

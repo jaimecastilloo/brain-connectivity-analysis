@@ -1,0 +1,11 @@
+Método,Variable,Asimetría,Curtosis,Outliers absolutos,% outliers
+SRS,n_tractos_reales,0.695,-0.749,0,0.0
+SRS,media_conectividad,1.029,0.14,0,0.0
+SRS,n_conexiones,0.761,-0.97,0,0.0
+SRS,desviacion_tipica,0.858,-0.103,0,0.0
+SRS,coef_variacion,-0.077,-1.664,0,0.0
+LHS,n_tractos_reales,0.662,-0.29,0,0.0
+LHS,media_conectividad,1.391,1.405,2,4.0
+LHS,n_conexiones,0.897,-0.356,0,0.0
+LHS,desviacion_tipica,1.122,0.776,1,2.0
+LHS,coef_variacion,0.515,-0.873,0,0.0

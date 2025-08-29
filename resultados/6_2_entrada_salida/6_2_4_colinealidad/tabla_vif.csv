@@ -1,0 +1,7 @@
+Variable,VIF,Método
+fa_threshold,15.026625073468082,SRS
+turning_angle,18.938123237351533,SRS
+track_voxel_ratio,17.064248099332982,SRS
+fa_threshold,22.406056530816485,LHS
+turning_angle,41.651495868185904,LHS
+track_voxel_ratio,35.76895911261282,LHS

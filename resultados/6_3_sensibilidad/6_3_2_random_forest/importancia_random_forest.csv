@@ -1,0 +1,13 @@
+Output,Input,Importancia
+n_tractos_reales,fa_threshold,0.8783170829708513
+n_tractos_reales,turning_angle,0.016239031370750633
+n_tractos_reales,track_voxel_ratio,0.10544388565839807
+media_conectividad,fa_threshold,0.9177183395009146
+media_conectividad,turning_angle,0.03564521319209831
+media_conectividad,track_voxel_ratio,0.046636447306987
+desviacion_tipica,fa_threshold,0.869928482471284
+desviacion_tipica,turning_angle,0.038494595830125586
+desviacion_tipica,track_voxel_ratio,0.0915769216985904
+n_conexiones,fa_threshold,0.9898453577552657
+n_conexiones,turning_angle,0.005219204734822589
+n_conexiones,track_voxel_ratio,0.004935437509911619
