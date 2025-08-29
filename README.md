@@ -1,4 +1,4 @@
-# Brain Connectivity Analysis – Statistical Exploration
+# Análisis de Conectividad Cerebral – Exploración Estadística
 
 Este repositorio contiene los **scripts en Python** y los **resultados** asociados al análisis estadístico y la visualización de tractografía cerebral, en el contexto de un estudio de conectividad estructural.
 
