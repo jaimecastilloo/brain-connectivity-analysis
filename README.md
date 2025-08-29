@@ -5,6 +5,7 @@ Este repositorio contiene los **scripts en Python** y los **resultados** asociad
 ## 📂 Estructura del repositorio
 
 resultados/ # Resultados organizados por apartados del análisis (capítulo 6)
+
 scripts/ # Scripts en Python para generar los resultados
 
 - **6_1_descriptiva**: estadísticas descriptivas globales (boxplots, histogramas, curtosis, asimetría, outliers).  
