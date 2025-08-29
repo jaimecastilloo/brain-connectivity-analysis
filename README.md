@@ -24,7 +24,7 @@ Los **scripts** reproducen cada apartado del análisis y generan automáticament
 
 1. Clonar el repositorio o descargar el contenido:  
    ```bash
-   git clone https://github.com/tu_usuario/brain-connectivity-analysis.git
+   git clone https://github.com/jaimecastilloo/brain-connectivity-analysis.git
    cd brain-connectivity-analysis
 
 2. Instalar las dependencias principales (Python 3.8+):
