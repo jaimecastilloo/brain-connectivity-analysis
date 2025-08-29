@@ -28,9 +28,20 @@ Los **scripts** reproducen cada apartado del análisis y generan automáticament
    cd brain-connectivity-analysis
 
 2. Instalar las dependencias principales (Python 3.8+):
+   ```bash
    pip install numpy pandas matplotlib seaborn scikit-learn
 
-3. Ejecutar los scripts desde la carpeta scripts/.
+4. Ejecutar los scripts desde la carpeta scripts/.
+   ```bash
    python scripts/6_1_descriptiva.py
 
 Cada script genera automáticamente los gráficos y tablas en su subcarpeta de resultados/.
+
+## 📊 Contenido destacado
+- Boxplots e histogramas comparativos (SRS vs LHS).
+- Correlaciones de Pearson y Spearman entre parámetros y outputs.
+- Regresiones lineales y análisis de colinealidad.
+- Análisis de sensibilidad mediante PRCC y Random Forest.
+- Propagación de incertidumbres.
+- Mapas de calor y métricas por conexión.
+- Exploración del espacio de parámetros en 1D, 2D y 3D.
