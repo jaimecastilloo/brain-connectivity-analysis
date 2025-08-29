@@ -1,2 +1,6 @@
-# brain-connectivity-analysis
-Python scripts and results for statistical analysis and visualization of brain tractography. Developed as part of a structural connectivity project (UPM).
+# Brain Connectivity Analysis
+
+Este repositorio contiene los scripts en Python y los resultados asociados al análisis estadístico y la visualización de tractografía cerebral realizados en el marco de un estudio de conectividad estructural.
+
+## Estructura del repositorio
+
